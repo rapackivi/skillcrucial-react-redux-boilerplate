@@ -1,7 +1,7 @@
 {
-  "name": "skillcrucial-react-redux-boilerplate",
+  "name": "landing-page",
   "version": "0.0.1",
-  "description": "Skill Crucial. visit skillcrucial.com  to becoem react developer",
+  "description": "landing-page. We make future for you closer",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development --config ./webpack.development.config.js --hot --open --disable-host-check",
