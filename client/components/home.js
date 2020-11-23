@@ -14,7 +14,8 @@ class Home extends React.Component {
     return (
       <div>
         <Head title="Hello" />
-        <div> Hello World Home </div>
+        <div> Hello World Home 2</div>
+        <div> Fucking sheat </div>
       </div>
     )
   }
